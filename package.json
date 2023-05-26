@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "testing",
-  "title": "Testing",
-  "description": "testing 1 2 3",
+  "name": "detail-input-demo",
+  "title": "Detail Input Demo",
+  "description": "Demonstrates how to use keyboard and mouse input in a Detail view",
   "icon": "command-icon.png",
   "author": "HelloImSteven",
   "categories": [
@@ -11,9 +11,15 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "test-detail-input",
-      "title": "Test Detail Input",
-      "description": "",
+      "name": "keyboard-input",
+      "title": "Test Keyboard Input",
+      "description": "Type into a Detail view",
+      "mode": "view"
+    },
+    {
+      "name": "mouse-input",
+      "title": "Test Mouse Input",
+      "description": "Click on interactive UI elements in a Detail view",
       "mode": "view"
     }
   ],
