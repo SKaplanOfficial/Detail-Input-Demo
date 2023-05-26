@@ -10,4 +10,8 @@ The JXA scripts is in the assets folder.
 
 ### Keyboard Input
 
+[keyboard_input.webm](https://github.com/SKaplanOfficial/Detail-Input-Demo/assets/7865925/22db1d83-15c8-47de-88bb-15ce2550009c)
+
 ### Mouse Input
+
+[mouse_input.webm](https://github.com/SKaplanOfficial/Detail-Input-Demo/assets/7865925/f3683b39-3bb1-4144-aaa9-89318cf5bd5e)
